@@ -1,1 +1,2 @@
 # mykubernetes
+kubernetes镜像
